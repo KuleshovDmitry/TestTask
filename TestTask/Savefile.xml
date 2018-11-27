@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+<ArrayOfGameStat xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <GameStat>
+    <name />
+    <duration>10.4690609</duration>
+    <coin>2</coin>
+    <endReason>Escape</endReason>
+    <date>2018-11-27T19:31:10.7818118+02:00</date>
+  </GameStat>
+  <GameStat>
+    <name />
+    <duration>0.818038166</duration>
+    <coin>0</coin>
+    <endReason>Escape</endReason>
+    <date>2018-11-27T19:33:08.6025507+02:00</date>
+  </GameStat>
+  <GameStat>
+    <name>34</name>
+    <duration>4.81380463</duration>
+    <coin>0</coin>
+    <endReason>Escape</endReason>
+    <date>2018-11-27T19:33:22.0853219+02:00</date>
+  </GameStat>
+  <GameStat>
+    <name>45</name>
+    <duration>0.649531543</duration>
+    <coin>0</coin>
+    <endReason>Dead</endReason>
+    <date>2018-11-27T19:33:25.6175239+02:00</date>
+  </GameStat>
+  <GameStat>
+    <name>45</name>
+    <duration>0.649531543</duration>
+    <coin>0</coin>
+    <endReason>Dead</endReason>
+    <date>2018-11-27T19:33:25.6415253+02:00</date>
+  </GameStat>
+  <GameStat>
+    <name>56</name>
+    <duration>17.1058025</duration>
+    <coin>4</coin>
+    <endReason>Escape</endReason>
+    <date>2018-11-27T19:33:45.9146848+02:00</date>
+  </GameStat>
+  <GameStat>
+    <name />
+    <duration>13.3958979</duration>
+    <coin>0</coin>
+    <endReason>Escape</endReason>
+    <date>2018-11-27T19:34:33.3293968+02:00</date>
+  </GameStat>
+  <GameStat>
+    <name />
+    <duration>3.52677035</duration>
+    <coin>0</coin>
+    <endReason>Escape</endReason>
+    <date>2018-11-27T19:34:54.5656115+02:00</date>
+  </GameStat>
+  <GameStat>
+    <name />
+    <duration>0.619562447</duration>
+    <coin>0</coin>
+    <endReason>Escape</endReason>
+    <date>2018-11-27T19:55:22.2748324+02:00</date>
+  </GameStat>
+</ArrayOfGameStat>
