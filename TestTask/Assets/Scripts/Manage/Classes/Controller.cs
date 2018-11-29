@@ -64,8 +64,8 @@ namespace Assets.Scripts
                     stats = new List<GameStat>();
                     stats = new XmlSerializer(typeof(List<GameStat>)).Deserialize(file) as List<GameStat>;
                     stats.Sort(Comparer<GameStat>.Create((x, y) =>
-                           (x as GameStat).date.CompareTo(
-                           (y as GameStat).date)));
+                           (y as GameStat).date.CompareTo(
+                           (x as GameStat).date)));
                 }
             }
             catch (FileNotFoundException) { }
